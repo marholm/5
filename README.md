@@ -1,5 +1,3 @@
-# 5
+# TDT4113_Project_5
 
-TDT4113 Programming Lab 2
-Assignment 5
-Spring 2021
+Project 5 for TDT4113
