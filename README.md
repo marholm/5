@@ -1,3 +1,9 @@
 # TDT4113_Project_5
+Implementation of a Finite State Machine
 
-Project 5 for TDT4113
+TDT4113 Programming Lab 2
+
+Assignment 5
+
+Spring 2021
+
